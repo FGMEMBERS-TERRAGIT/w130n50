@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -128.690742 53.997463 3.99 350
+OBJECT_SHARED Models/Power/rw_generic_pylon_100m.xml -128.647587 53.99797 99.72 315
+OBJECT_SHARED Models/Power/coal_heap_small.ac -128.696204 53.999338 4.82 90
+OBJECT_SHARED Models/Power/coal_heap_large.ac -128.69812 53.99915 8.06 90
